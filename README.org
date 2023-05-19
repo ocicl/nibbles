@@ -1,0 +1,9 @@
+* nibbles
+
+A Common Lisp library for accessing octet-addressed blocks of data.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/sharplispers/nibbles.git |
+| commit  | f37322b                                         |
+| systems | nibbles                                         |
+|---------+-------------------------------------------------|
