@@ -4,6 +4,6 @@ A Common Lisp library for accessing octet-addressed blocks of data.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/sharplispers/nibbles.git |
-| commit  | 6faa720                                         |
+| commit  | c054c32                                         |
 | systems | nibbles                                         |
 |---------+-------------------------------------------------|
